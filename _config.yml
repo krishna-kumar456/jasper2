@@ -9,8 +9,8 @@ words_per_minute: 200
 baseurl: /
 
 # Website info
-title: The Visual Way
-description: Code | Data | Balance
+title: Digiteria
+description: Experiences with Data And Analytics
 cover: assets/images/blog-cover.jpg
 logo: 
 logo_dark: assets/images/favicon.png
