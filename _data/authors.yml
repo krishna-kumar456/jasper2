@@ -77,11 +77,11 @@ martin:
 krishna:
   username: krishna
   name: Krishna Kumar
-  location: Noida
+  location: New Delhi
   url_full: False
   url: False
   bio: Writes for fun.
-  picture: assets/images/lewis.jpg
+  picture: assets/images/lewis.jpeg
   facebook: False
   twitter: krishanqmar4
   cover: False
