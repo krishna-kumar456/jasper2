@@ -18,3 +18,8 @@ data-engineering:
   name: data-engineering
   description: False
   cover: False
+data-analytics:
+  name: data-analytics
+  description: False
+  cover: False
+
