@@ -8,4 +8,4 @@ class: page-template
 subclass: 'post page'
 ---
 
-This page will be updated soon.
+Digiteria covers all aspects around Data Engineering and Data Analytics
